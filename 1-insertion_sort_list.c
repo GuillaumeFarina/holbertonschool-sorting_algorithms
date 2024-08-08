@@ -3,7 +3,7 @@
 /**
  * insertion_sort_list - Sort a doubly linked list of integers in
  *                       ascendin order using the Insertion sort algorithm
- * @list: Given doubly linkeddoubly linked lis:wqtt of integers
+ * @list: A pointer to the head of doubly linked list of integers
  * Return: Nothing
  */
 
